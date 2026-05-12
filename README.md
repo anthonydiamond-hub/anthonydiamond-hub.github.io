@@ -1,2 +1,2 @@
 <h1>Anthony Diamond</h1>
-‹p><a href-"/rootdirectory/newsarticle" target-"blank"›newsarticle</a>‹/p›
+<p><a href="./rootdirectory/newsarticle.html" target="_blank">News Article</p>
